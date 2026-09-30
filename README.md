@@ -1,6 +1,6 @@
 # WebGL Logo for WeChat
 
-> [!此项目已过期]
+> [!CAUTION]
 > 此项目已过期，并不再维护
 
 相应的文章 (https://indienova.com/indie-game-development/run-threejs-on-wechat-game-platform/)
